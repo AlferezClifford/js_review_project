@@ -1,2 +1,2 @@
 # My second commit for this JavaScript Review Project by Clifford Alferez
-This project is a review of JavaScript concepts, from beginner to advance
+This project is a review of JavaScript concepts, from beginner to advances
